@@ -3,9 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando programação e desenvolvimento de sistemas
+- 🌱 Aprendendo mais sobre JavaScript, HTML5 e Python
 
 ## Minhas Skills
 
@@ -34,8 +33,8 @@
 
 <br/>
 
-<a href="https://github.com/imshdw" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/imshdw" title="Perfil do Kauan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imshdw&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
